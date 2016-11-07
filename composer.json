@@ -1,0 +1,16 @@
+{
+  "name": "intval/server-backup",
+  "description": "Allows to create backups of database, files, configs and upload them to cloud",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "intval",
+      "email": "alex@example.com"
+    }
+  ],
+  "require": {
+    "league/flysystem-webdav": "1.0.4",
+    "mnapoli/silly": "1.5.1"
+  }
+}
